@@ -1,4 +1,5 @@
-### Hello there, i'm "<p>Marcin Berger</p>"
+### Hello there, i'm
+"<p>Marcin Berger</p>"
 
 <!--
 **marcinbergerdev/marcinbergerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
