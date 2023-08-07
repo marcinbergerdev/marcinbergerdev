@@ -2,7 +2,7 @@
 <h2 align="center">Frontend Dev. Vue❤</h3>
 <h3 align="left">All about me you will find here:</h2>
 
-🙋‍♂️ my portfolio <a href="https://marcinbergerdev.netlify.app/#/projects" target="blank"> → here</a>
+🙋‍♂️ my portfolio <a href="https://marcinbergerdev.netlify.app" target="blank"> → here</a>
 
 💻 all of my projects are available at <a href="https://marcinbergerdev.netlify.app/#/projects" target="blank"> → here</a>
 
