@@ -47,10 +47,8 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> 
   </a> 
-  
 </p>
-
-
+<br/>
 <h3 align="left">languages I'm currently learning:</h3>
 <p align="left">
    <a href="https://nuxt.com" target="_blank" rel="noreferrer">
