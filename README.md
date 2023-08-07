@@ -53,7 +53,7 @@
 
 <h3 align="left">languages I'm currently learning:</h3>
 <p align="left">
-   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+   <a href="https://nuxt.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="50" height="50"/>
   </a>
   
