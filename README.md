@@ -1,5 +1,5 @@
 <h1 align="start">Hi 👋, I'm Marcin</h1>
-<h3 align="center">Frontend Dev. Vue❤</h3>
+<h2 align="center">Frontend Dev. Vue❤</h3>
 
 - 🌱 I’m currently learning **Nuxt, Unit Testing**
 
