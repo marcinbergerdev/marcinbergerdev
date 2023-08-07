@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Marcin</h1>
-<h2 align="center">Frontend Dev. Vue❤</h3>
+<h2 align="center"> &lt;Frontend Dev. Vue❤&gt; </h3>
 <h3 align="left">All about me you will find here:</h2>
 
 🙋‍♂️ my portfolio <a href="https://marcinbergerdev.netlify.app" target="blank"> → here</a>
