@@ -61,7 +61,7 @@
   </a>
   
   <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer">
-    <img id="preview-image" src="/logos/nodejs/nodejs-ar21.svg" alt="node.js" width="50" height="50">
+    <img id="preview-image" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="node.js" width="50" height="50">
   </a>
 </p> 
 <br/>
