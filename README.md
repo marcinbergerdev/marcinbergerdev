@@ -61,7 +61,7 @@
   </a>
   
   <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer">
-    <img id="preview-image" src="https://icon-sets.iconify.design/devicon/nodejs-wordmark/" alt="node.js" width="50" height="50">
+    <img id="preview-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="node.js" width="50" height="50">
   </a>
 </p> 
 <br/>
