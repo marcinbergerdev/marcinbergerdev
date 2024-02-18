@@ -13,7 +13,7 @@
 <br/>
 <br/>
 <br/>
-<h3 align="left">languages I'm still learning today:</h3>
+<h3 align="left">languages I'm studying:</h3>
 <p align="left"> 
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -39,6 +39,10 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/>
   </a> 
+
+  <a href="https://nuxt.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="50" height="50"/>
+  </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
@@ -49,14 +53,15 @@
   </a> 
 </p>
 <br/>
-<h3 align="left">languages I'm currently learning:</h3>
+<h3 align="left">languages I'm currently studying:</h3>
 <p align="left">
-   <a href="https://nuxt.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="50" height="50"/>
-  </a>
-  
+   
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/>
+  </a>
+  
+  <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-ar21.svg" alt="node.js" width="50" height="50"/>
   </a>
 </p> 
 <br/>
