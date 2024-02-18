@@ -66,7 +66,3 @@
 </p> 
 <br/>
 <br/>
-
-![](https://komarev.com/ghpvc/?username=marcinbergerdev&color=grey)
-
-
